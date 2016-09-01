@@ -24,6 +24,6 @@
 
 ### 运行
 
-> 需要 python 2.7
+> 需要 python 2.7，可能需要 root 权限
 
-`python __main__.py`
+`sudo ython __main__.py`
